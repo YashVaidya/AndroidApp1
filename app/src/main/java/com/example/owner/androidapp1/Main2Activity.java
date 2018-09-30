@@ -10,6 +10,7 @@ import android.widget.Toast;
 public class Main2Activity extends AppCompatActivity {
     private EditText userEditText;
     private EditText passEditText;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -23,7 +24,7 @@ public class Main2Activity extends AppCompatActivity {
     public void go3(View view) {
         String userNa = userEditText.getText().toString();
         String pass = passEditText.getText().toString();
-        if(userNa.equals("user") && pass.equals("pass")) {
+        if(userNa.equals(Main4Activity.userNa) && pass.equals(Main4Activity.pass)) {
             Intent intent = new Intent(getApplicationContext(), Main3Activity.class);
             startActivity(intent);
         } else {

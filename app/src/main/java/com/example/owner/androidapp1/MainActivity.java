@@ -16,4 +16,8 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(getApplicationContext(), Main2Activity.class);
         startActivity(intent);
 }
+    public void goReg(View view) {
+        Intent intent = new Intent(getApplicationContext(), Main4Activity.class);
+        startActivity(intent);
+    }
 }
