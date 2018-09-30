@@ -1,0 +1,22 @@
+Ten user stories:
+
+1. As a user, I want to view the open hours for each drop-off site,
+   so that I can be sure that I won't waste my time going to one of the sites and found it closed.
+2. As a user, I want to view the inventory at a drop-off site by categories to
+   find the items I want faster and more accurately.
+3. As a manager, I want the app to send me an warning when a category of goods (e.g. shoes, books etc) 
+   is low in inventory at a drop-off site for a long tiem so that I can redistribute some of that kinds of goods
+   from a nearby drop-off site to that site.
+4.As a location employee, I want to be able to update the values of items donated at my specific location, 
+   so that users can be better informed before coming to a location.
+5. As a user, I want to be able to update my password so that I can keep my account more secure
+6. As an admin, I want to be able to unlock accounts if a user enters his password incorrect more than 3 times, 
+   so that users have the ability to enter the system incase they have forgotten the password.
+7. As a user, I want to be able to search items by location, so that I can save time and go the nearest possible location for a specific item.
+8. As a manager, I want the app to give me the data to donation per day for a given month at a specific location, so that
+   I can analyze the months when donations are lows and redistribute goods accordingly.
+9. As a user, I want the app show all locations close to a given location, so that I can donate something quickly.
+10. As an admin, I want to be able to remove users, so that some users who have misused the app no longer have access to it.
+
+P.S. I have done 3/10. I will choose one from mine to expand as my individual portion of M4 - Jie
+
